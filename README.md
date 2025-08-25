@@ -44,7 +44,8 @@ I built an **end-to-end routing engine in Python** that blends:
 
 
 ### — Open in Colab
-([https://colab.research.google.com/github/USERNAME/REPO/blob/main/notebooks/routing_pipeline.ipynb](https://colab.research.google.com/drive/1Lw3VEkgjiDMsh7-7ZXEoTVZb5vEHmOb_))
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hemanth282004/Employee-Transport_Routing/blob/main/Auto_Routing_Project.ipynb)
+
 
 🏆 Achievements
 
